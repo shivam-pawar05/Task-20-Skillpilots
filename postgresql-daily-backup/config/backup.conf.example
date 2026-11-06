@@ -1,0 +1,8 @@
+# Copy to config/backup.conf and edit.
+DB_NAME=your_database
+DB_USER=your_backup_user
+DB_HOST=localhost
+DB_PORT=5432
+BACKUP_DIR=/var/backups/postgresql
+LOG_DIR=/var/log/postgresql-backup
+RETENTION_DAYS=14

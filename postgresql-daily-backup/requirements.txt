@@ -1,0 +1,1 @@
+System tools required: bash, pg_dump, pg_restore, createdb, psql, cron.\nNo Python packages required.\n
